@@ -1,0 +1,56 @@
+league_name: "Fantasy Football 2026"
+league_id: "1072233127"
+teams_count: 14
+draft_type: "snake"
+draft_position: 14
+
+roster_slots:
+  QB: 1
+  RB: 2
+  WR: 2
+  TE: 1
+  FLEX: 1  # RB / WR / TE
+  DST: 1
+  K: 1
+  BE: 7
+  IR: 1
+
+position_limits:
+  QB: 4
+  RB: 8
+  WR: 8
+  TE: 3
+  DST: 3
+  K: 3
+
+scoring:
+  passing:
+    yards: 0.04  # 1 pt per 25 yds
+    td: 4.0
+    interception: -2.0
+    two_point: 2.0
+  rushing:
+    yards: 0.1   # 1 pt per 10 yds
+    td: 6.0
+    two_point: 2.0
+  receiving:
+    reception: 1.0  # FULL PPR
+    yards: 0.1  # 1 pt per 10 yds
+    td: 6.0
+    two_point: 2.0
+  fumbles_lost: -2.0
+  kicking:
+    pat_made: 1.0
+    fg_miss: -1.0
+    fg_0_39: 3.0
+    fg_40_49: 4.0
+    fg_50_59: 5.0
+    fg_60_plus: 6.0
+  defense:
+    sack: 1.0
+    interception: 2.0
+    fumble_recovery: 2.0
+    safety: 2.0
+    touchdown: 6.0
+    blocked_kick: 2.0
+    blocked_kick_td: 6.0

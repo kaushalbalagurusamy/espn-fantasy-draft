@@ -1,0 +1,33 @@
+team,name,vegas_implied_pts,oline_run_grade,oline_pass_grade,pace_sec_per_play,pass_rate_over_exp,rb_committee_factor
+DET,Detroit Lions,26.8,92,88,27.1,0.02,0.48
+KC,Kansas City Chiefs,27.2,84,87,26.5,0.08,0.35
+BAL,Baltimore Ravens,26.5,88,82,28.2,-0.04,0.30
+SF,San Francisco 49ers,26.4,85,78,28.9,-0.05,0.20
+PHI,Philadelphia Eagles,25.9,89,86,27.4,-0.03,0.22
+HOU,Houston Texans,25.1,76,77,26.8,0.06,0.38
+MIA,Miami Dolphins,25.0,77,75,26.2,0.04,0.52
+DAL,Dallas Cowboys,24.8,78,81,25.8,0.07,0.45
+GB,Green Bay Packers,24.6,81,83,27.0,0.03,0.40
+BUF,Buffalo Bills,24.5,82,80,27.3,-0.02,0.42
+CIN,Cincinnati Bengals,24.2,74,76,26.1,0.08,0.35
+LAR,Los Angeles Rams,23.8,83,79,27.6,0.01,0.18
+ATL,Atlanta Falcons,23.5,86,82,27.5,0.01,0.30
+CHI,Chicago Bears,22.8,79,77,27.0,0.04,0.45
+IND,Indianapolis Colts,22.5,85,82,25.4,-0.05,0.25
+NYJ,New York Jets,22.2,80,82,27.2,0.03,0.25
+TB,Tampa Bay Buccaneers,22.0,73,78,26.9,0.04,0.32
+ARI,Arizona Cardinals,21.8,78,74,27.1,0.00,0.36
+JAX,Jacksonville Jaguars,21.5,74,75,26.8,0.05,0.35
+WAS,Washington Commanders,21.2,75,72,26.0,0.02,0.42
+CLE,Cleveland Browns,21.0,84,78,27.8,-0.02,0.40
+SEA,Seattle Seahawks,21.0,72,71,26.3,0.05,0.38
+LAC,Los Angeles Chargers,20.8,81,77,28.5,-0.06,0.50
+PIT,Pittsburgh Steelers,20.5,78,73,28.8,-0.07,0.50
+MIN,Minnesota Vikings,20.5,79,84,26.7,0.06,0.35
+NO,New Orleans Saints,20.0,73,71,27.5,0.02,0.38
+LV,Las Vegas Raiders,19.8,75,74,27.9,-0.01,0.42
+TEN,Tennessee Titans,19.5,72,70,27.2,0.03,0.50
+DEN,Denver Broncos,19.2,77,76,27.4,-0.01,0.48
+NYG,New York Giants,18.0,71,68,27.7,0.01,0.40
+CAR,Carolina Panthers,17.8,74,72,27.5,0.02,0.42
+NE,New England Patriots,17.2,70,69,28.0,-0.04,0.44

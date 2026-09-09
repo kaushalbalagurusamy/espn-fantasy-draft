@@ -1,0 +1,246 @@
+{
+  "last_updated": "2026-09-08 21:39:12",
+  "out_count": 4,
+  "ir_count": 8,
+  "out_players": [
+    {
+      "name": "Tyreek Hill",
+      "pos": "WR",
+      "team": "MIA",
+      "status": "OUT",
+      "note": "OUT - Severe knee injury dislocation/ACL, unsigned free agent. Do not draft."
+    },
+    {
+      "name": "Josh Jacobs",
+      "pos": "RB",
+      "team": "GB",
+      "status": "OUT",
+      "note": "OUT (ESPN official report)"
+    },
+    {
+      "name": "Luke Musgrave",
+      "pos": "TE",
+      "team": "GB",
+      "status": "OUT",
+      "note": "OUT (ESPN official report)"
+    },
+    {
+      "name": "TreVeyon Henderson",
+      "pos": "RB",
+      "team": "DAL",
+      "status": "OUT",
+      "note": "OUT (ESPN official report)"
+    }
+  ],
+  "ir_pup_players": [
+    {
+      "name": "Isiah Pacheco",
+      "pos": "RB",
+      "team": "KC",
+      "status": "IR",
+      "note": "On Injured Reserve (IR)"
+    },
+    {
+      "name": "James Conner",
+      "pos": "RB",
+      "team": "ARI",
+      "status": "IR",
+      "note": "On Injured Reserve (IR)"
+    },
+    {
+      "name": "Tank Dell",
+      "pos": "WR",
+      "team": "HOU",
+      "status": "IR",
+      "note": "IR - Surgery (Placed on Injured Reserve)"
+    },
+    {
+      "name": "Jonathon Brooks",
+      "pos": "RB",
+      "team": "CAR",
+      "status": "PUP",
+      "note": "Starting on PUP (recovering from ACL); second-half rookie upside."
+    },
+    {
+      "name": "Trey Benson",
+      "pos": "RB",
+      "team": "ARI",
+      "status": "IR",
+      "note": "On Injured Reserve (IR)"
+    },
+    {
+      "name": "T.J. Hockenson",
+      "pos": "TE",
+      "team": "MIN",
+      "status": "PUP",
+      "note": "Starting season on PUP (recovering from ACL); target return mid-season."
+    },
+    {
+      "name": "Nick Chubb",
+      "pos": "RB",
+      "team": "CLE",
+      "status": "PUP",
+      "note": "Starting season on PUP (recovering from multi-ligament knee); mid-season return."
+    },
+    {
+      "name": "Ty Chandler",
+      "pos": "RB",
+      "team": "MIN",
+      "status": "IR",
+      "note": "On Injured Reserve (IR)"
+    }
+  ],
+  "questionable_players": [
+    {
+      "name": "Ja'Marr Chase",
+      "pos": "WR",
+      "team": "CIN",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Breece Hall",
+      "pos": "RB",
+      "team": "NYJ",
+      "status": "Questionable",
+      "detail": "Strain"
+    },
+    {
+      "name": "Sam LaPorta",
+      "pos": "TE",
+      "team": "DET",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Patrick Mahomes",
+      "pos": "QB",
+      "team": "KC",
+      "status": "Questionable",
+      "detail": "Surgery"
+    },
+    {
+      "name": "Michael Pittman Jr.",
+      "pos": "WR",
+      "team": "IND",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "DK Metcalf",
+      "pos": "WR",
+      "team": "SEA",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Malik Nabers",
+      "pos": "WR",
+      "team": "NYG",
+      "status": "Questionable",
+      "detail": "Surgery"
+    },
+    {
+      "name": "Rachaad White",
+      "pos": "RB",
+      "team": "TB",
+      "status": "Questionable",
+      "detail": "Strain"
+    },
+    {
+      "name": "Alvin Kamara",
+      "pos": "RB",
+      "team": "NO",
+      "status": "Questionable",
+      "detail": "Sprain"
+    },
+    {
+      "name": "D'Andre Swift",
+      "pos": "RB",
+      "team": "CHI",
+      "status": "Questionable",
+      "detail": "Cramps"
+    },
+    {
+      "name": "Tee Higgins",
+      "pos": "WR",
+      "team": "CIN",
+      "status": "Questionable",
+      "detail": "Bruise"
+    },
+    {
+      "name": "Zay Flowers",
+      "pos": "WR",
+      "team": "BAL",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "George Kittle",
+      "pos": "TE",
+      "team": "SF",
+      "status": "Questionable",
+      "detail": "Surgery"
+    },
+    {
+      "name": "Rome Odunze",
+      "pos": "WR",
+      "team": "CHI",
+      "status": "Questionable",
+      "detail": ""
+    },
+    {
+      "name": "Chuba Hubbard",
+      "pos": "RB",
+      "team": "CAR",
+      "status": "Questionable",
+      "detail": ""
+    }
+  ],
+  "breaking_news": [
+    {
+      "headline": "Respectful Lions eager to tangle with Saints in opener",
+      "description": "Campbell spent five seasons as an assistant to Payton and credits the Saints coach as the reason he was hired  in Detroit.",
+      "athletes": [],
+      "published": "2026-09-08T23:29:43Z"
+    },
+    {
+      "headline": "Ann Michael Maye dishes on skyrocketing profile with Drake's ascent",
+      "description": "One of the organic trickle-down effects of Maye's rapid ascent to stardom is how his wife, Ann Michael, has seen her own profile skyrocket.",
+      "athletes": [
+        "Drake Maye"
+      ],
+      "published": "2026-09-09T00:19:08Z"
+    },
+    {
+      "headline": "Buccaneers extend Baker Mayfield: Key intel and a grade",
+      "description": "Why did Mayfield change his mind about a negotiating deadline, and what does it mean for other QBs?",
+      "athletes": [
+        "Baker Mayfield"
+      ],
+      "published": "2026-09-09T00:00:39Z"
+    },
+    {
+      "headline": "Travis Hunter, wife give gifts to nurses who helped with birth of their child",
+      "description": "The nurses who helped care for the couple's son's while he was in the Wolfson Children's Hospital neonatal ICU left a lasting impression.",
+      "athletes": [
+        "Travis Hunter"
+      ],
+      "published": "2026-09-08T22:56:37Z"
+    },
+    {
+      "headline": "Source: Steelers' Iheanachor had home burglarized last month",
+      "description": "Steelers rookie OT Max Iheanachor had his home burglarized late last month, a team source confirmed to ESPN's Brooke Pryor.",
+      "athletes": [],
+      "published": "2026-09-08T23:00:24Z"
+    },
+    {
+      "headline": "Joe Burrow in it for 'long haul' with Cincinnati Bengals",
+      "description": "As the season opener nears, Cincinnati veteran quarterback Joe Burrow, 29, affirmed his desire to remain with the Bengals, telling the team's website that he's \"here for the long haul\" and ready to \"attack the day with a championship mindset.\"",
+      "athletes": [
+        "Joe Burrow"
+      ],
+      "published": "2026-09-08T22:36:00Z"
+    }
+  ]
+}
